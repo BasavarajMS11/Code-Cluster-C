@@ -1,2 +1,2 @@
-# Code-Cluster-C-
+# C
 Programs in C
